@@ -52,4 +52,18 @@
             <td>14</td>
         </tr>
     </table>
+    <hr>
+    <h3>Code display</h3>
+    <blockquote cite=“https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string”> How to check if a string starts with a specified string?</blockquote >
+    <pre>
+        <?php 
+        function startsWith($string, $startString) { 
+        $len = strlen($startString); 
+        return (substr($string, 0, $len) === $startString); 
+        } 
+        // usage
+        echo startsWith("cat", "c"); // true
+        echo startsWith("dog", "x"); // false
+        ?> 
+    </pre>
 </html>
