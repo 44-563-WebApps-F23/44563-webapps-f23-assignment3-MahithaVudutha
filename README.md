@@ -3,3 +3,5 @@
 Assignment 3 - Basic HTML
 
 Hosted at [my website](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-MahithaVudutha/)
+
+Hosted at [ACTIVATE HERE FOR GITHUB](https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-MahithaVudutha.git)
